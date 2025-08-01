@@ -10,6 +10,10 @@ define("AccountPageV2", [], function () {
         this.checkAccountCodeValue();
       },
 
+      testMethod: function (arr) {
+        return arr.filter((item) => item % 2 == 0);
+      },
+
       checkAccountCodeValue: function () {
         const accountCode = this.get("Code");
         if (accountCode && accountCode === "1") {
