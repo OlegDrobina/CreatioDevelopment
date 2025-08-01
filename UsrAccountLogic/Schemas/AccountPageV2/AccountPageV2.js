@@ -4,28 +4,6 @@ define("AccountPageV2", [], function () {
     details: /**SCHEMA_DETAILS*/ {} /**SCHEMA_DETAILS*/,
     diff: /**SCHEMA_DIFF*/ [] /**SCHEMA_DIFF*/,
     attributes: {},
-    methods: {
-      onEntityInitialized: function () {
-        this.callParent(arguments);
-        this.checkAccountCodeValue();
-      },
-
-      testMethod: function (arr) {
-        return arr.filter((item) => item % 2 == 0);
-      },
-
-      checkAccountCodeValue: function () {
-        const accountCode = this.get("Code");
-        if (accountCode && accountCode === "1") {
-          alert("The code is correct");
-        } else {
-          this.modifyAccountCode();
-        }
-      },
-
-      modifyAccountCode: function () {
-        this.set("Code", "1");
-      },
-    },
+    methods: {},
   };
 });
