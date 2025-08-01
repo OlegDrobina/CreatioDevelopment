@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hu-HU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Images.a4b11c18-9e35-4bfe-ba14-6a62a3d8b1f1.Caption" Value="EnrichmentDefaultIcon" />
+			<Item Name="Images.cd6fb42c-38cc-49a3-8395-f28de0d676b2.Caption" Value="EnrichedDefaultIcon" />
+			<Item Name="LocalizableStrings.AccountPageServiceTab.Value" Value="Karbantartás" />
+			<Item Name="LocalizableStrings.CompletenessCaption.Value" Value="Profil kitöltése" />
+			<Item Name="LocalizableStrings.CompletenessHint.Value" Value="A profil kitöltésének százalékos aránya. Kattintson a mutatóra, hogy megtekinthesse, mely adatokra van szüksége a profil kitöltéséhez." />
+			<Item Name="LocalizableStrings.CompletenessLabel.Value" Value="Profil kész" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonCaption.Value" Value="Új adatok találhatók ({0})" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonHint.Value" Value="Új adatok megjelenítése a fiókprofil gazdagításához" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonCaption.Value" Value="Adatok gazdagítása" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonHint.Value" Value="Keressen új adatokat a fiókbővítéshez" />
+			<Item Name="LocalizableStrings.FillAccountQuestion.Value" Value="A művelet végrehajtásához legalább egy közösségi hálózati profilt meg kell adni a fiókhoz." />
+			<Item Name="LocalizableStrings.FillAccountWithSocialNetworksDataActionCaption.Value" Value="Frissítés a közösségi hálózatok adataival" />
+			<Item Name="LocalizableStrings.OpenAccountCardQuestion.Value" Value="A művelet végrehajtásához legalább egy közösségi hálózati profilt meg kell adni a fiókhoz" />
+			<Item Name="LocalizableStrings.RightsErrorMessage.Value" Value="Nincs elegendő jogosultság a művelet végrehajtásához. Forduljon a rendszergazdához." />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Kövesse a hírfolyamot" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Ön most követi a hírcsatornát: {0}" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Hagyd abba a hírfolyam követését" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Leállította a következő hírcsatornát: {0}" />
+		</Items>
+	</Group>
+</Resources>

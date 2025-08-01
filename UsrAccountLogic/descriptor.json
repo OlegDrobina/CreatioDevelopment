@@ -1,0 +1,27 @@
+﻿{
+  "Descriptor": {
+    "UId": "1c6e0186-207a-de05-69cb-2f3460417118",
+    "Name": "UsrAccountLogic",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1753882362000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/UsrAccountLogic.csproj",
+    "DependsOn": [
+      {
+        "UId": "3f299622-2079-4a62-ba18-6d32c1d0d6af",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterprise_Marketing_ServiceEnt"
+      },
+      {
+        "UId": "99707b27-fb9d-4a8d-a9ce-313a68e7423f",
+        "PackageVersion": "7.8.0",
+        "Name": "ServiceEnterpriseSoftkey"
+      },
+      {
+        "UId": "d7559847-f38e-410c-baee-6f43bbe80d42",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterpriseSoftkey_ENU"
+      }
+    ]
+  }
+}

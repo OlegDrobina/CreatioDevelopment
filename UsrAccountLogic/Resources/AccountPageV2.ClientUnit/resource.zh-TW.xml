@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="zh-TW">
+	<Group Type="String">
+		<Items>
+			<Item Name="Images.a4b11c18-9e35-4bfe-ba14-6a62a3d8b1f1.Caption" Value="EnrichmentDefaultIcon" />
+			<Item Name="Images.cd6fb42c-38cc-49a3-8395-f28de0d676b2.Caption" Value="EnrichedDefaultIcon" />
+			<Item Name="LocalizableStrings.AccountPageServiceTab.Value" Value="維護" />
+			<Item Name="LocalizableStrings.CompletenessCaption.Value" Value="檔案完成" />
+			<Item Name="LocalizableStrings.CompletenessHint.Value" Value="設定檔完成的百分比。按一下該指示器可查看完成設定檔所需的資料。" />
+			<Item Name="LocalizableStrings.CompletenessLabel.Value" Value="檔案完成" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonCaption.Value" Value="找到新資料 ({0})" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonHint.Value" Value="顯示豐富企業資料的新數據" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonCaption.Value" Value="豐富資料" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonHint.Value" Value="搜尋新資料以豐富企業" />
+			<Item Name="LocalizableStrings.FillAccountQuestion.Value" Value="必須為企業至少指定一個社交網路設定檔才能執行此操作。" />
+			<Item Name="LocalizableStrings.FillAccountWithSocialNetworksDataActionCaption.Value" Value="更新社群網路數據" />
+			<Item Name="LocalizableStrings.OpenAccountCardQuestion.Value" Value="必須為企業至少指定一個社交網路設定檔才能執行此操作" />
+			<Item Name="LocalizableStrings.RightsErrorMessage.Value" Value="沒有足夠的權限來執行此操作。請聯絡您的系統管理員。" />
+		</Items>
+	</Group>
+</Resources>

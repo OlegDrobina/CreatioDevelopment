@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pl-PL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Images.a4b11c18-9e35-4bfe-ba14-6a62a3d8b1f1.Caption" Value="EnrichmentDefaultIcon" />
+			<Item Name="Images.cd6fb42c-38cc-49a3-8395-f28de0d676b2.Caption" Value="EnrichedDefaultIcon" />
+			<Item Name="LocalizableStrings.AccountPageServiceTab.Value" Value="Serwis" />
+			<Item Name="LocalizableStrings.CompletenessCaption.Value" Value="Profil uzupełniony" />
+			<Item Name="LocalizableStrings.CompletenessHint.Value" Value="Procent uzupełnienia profilu. Kliknij na wskaźniku, aby zobaczyć, które dane należy uzupełnić w celu uzupełnienia profilu." />
+			<Item Name="LocalizableStrings.CompletenessLabel.Value" Value="Profil uzupełniony" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonCaption.Value" Value="Znaleziono nowe dane ({0})" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonHint.Value" Value="Pokaż nowe dane dotyczące wzbogacania profilu kontrahenta" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonCaption.Value" Value="Wzbogać dane" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonHint.Value" Value="Szukaj nowych danych do uzupełnienia danych Kontrahenta" />
+			<Item Name="LocalizableStrings.FillAccountQuestion.Value" Value="W celu uruchomienia tej akcji, należy podać co najmniej jeden profil sieci społecznościowej dla konta." />
+			<Item Name="LocalizableStrings.FillAccountWithSocialNetworksDataActionCaption.Value" Value="Zaktualizuj za pomocą danych z sieci społecznościowych" />
+			<Item Name="LocalizableStrings.OpenAccountCardQuestion.Value" Value="W celu uruchomienia tej akcji, należy podać co najmniej jeden profil sieci społecznościowej dla konta" />
+			<Item Name="LocalizableStrings.RightsErrorMessage.Value" Value="Niewystarczające uprawnienia do wykonania tej czynności. Skontaktuj się z administratorem systemu." />
+		</Items>
+	</Group>
+</Resources>

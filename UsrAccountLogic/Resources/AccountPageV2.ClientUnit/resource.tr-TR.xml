@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="tr-TR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Images.a4b11c18-9e35-4bfe-ba14-6a62a3d8b1f1.Caption" Value="EnrichmentDefaultIcon" />
+			<Item Name="Images.cd6fb42c-38cc-49a3-8395-f28de0d676b2.Caption" Value="EnrichedDefaultIcon" />
+			<Item Name="LocalizableStrings.AccountPageServiceTab.Value" Value="Bakım onarım" />
+			<Item Name="LocalizableStrings.CompletenessCaption.Value" Value="Profil Tamamlama" />
+			<Item Name="LocalizableStrings.CompletenessHint.Value" Value="Profilin tamamlanmasının yüzdesi.Profili tamamlamak için hangi verilerin gerektiğini görüntülemek için göstergeye tıklayın." />
+			<Item Name="LocalizableStrings.CompletenessLabel.Value" Value="Profil Tamamlandı" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonCaption.Value" Value="Yeni Veri Bulundu ({0})" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonHint.Value" Value="Hesap profili zenginleştirmesi için yeni veriler göster" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonCaption.Value" Value="Veri zenginleştirme" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonHint.Value" Value="Hesap zenginleştirmesi için yeni veriler arayın" />
+			<Item Name="LocalizableStrings.FillAccountQuestion.Value" Value="Bu eylemi yürütebilmek için en az bir sosyal ağ hesabınıza belirtilmiş olmalı." />
+			<Item Name="LocalizableStrings.FillAccountWithSocialNetworksDataActionCaption.Value" Value="Sosyal ağ verilerini güncelle" />
+			<Item Name="LocalizableStrings.OpenAccountCardQuestion.Value" Value="Bu eylemi yürütebilmek için en az bir sosyal ağ hesabınıza belirtilmiş olmalı" />
+			<Item Name="LocalizableStrings.RightsErrorMessage.Value" Value="Bu eylemi yerine getirmek için yetersiz haklar.Sistem yöneticinizle iletişime geçin." />
+		</Items>
+	</Group>
+</Resources>

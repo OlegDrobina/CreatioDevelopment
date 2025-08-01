@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Images.a4b11c18-9e35-4bfe-ba14-6a62a3d8b1f1.Caption" Value="EnrichmentDefaultIcon" />
+			<Item Name="Images.cd6fb42c-38cc-49a3-8395-f28de0d676b2.Caption" Value="EnrichedDefaultIcon" />
+			<Item Name="LocalizableStrings.AccountPageServiceTab.Value" Value="Maintenance" />
+			<Item Name="LocalizableStrings.CompletenessCaption.Value" Value="Profile completion" />
+			<Item Name="LocalizableStrings.CompletenessHint.Value" Value="Percentage of profile completion. Click on the indicator to view which data you need to complete the profile." />
+			<Item Name="LocalizableStrings.CompletenessLabel.Value" Value="Profile complete" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonCaption.Value" Value="New data found ({0})" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonHint.Value" Value="Show new data for account profile enrichment" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonCaption.Value" Value="Enrich data" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonHint.Value" Value="Search new data for account enrichment" />
+			<Item Name="LocalizableStrings.FillAccountQuestion.Value" Value="At least one social network profile must be specified for the account in order to run this action." />
+			<Item Name="LocalizableStrings.FillAccountWithSocialNetworksDataActionCaption.Value" Value="Update with social networks data" />
+			<Item Name="LocalizableStrings.OpenAccountCardQuestion.Value" Value="At least one social network profile must be specified for the account in order to run this action" />
+			<Item Name="LocalizableStrings.RightsErrorMessage.Value" Value="Insufficient rights to perform this action. Contact your system administrator." />
+		</Items>
+	</Group>
+</Resources>

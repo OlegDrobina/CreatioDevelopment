@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="lv-LV">
+	<Group Type="String">
+		<Items>
+			<Item Name="Images.a4b11c18-9e35-4bfe-ba14-6a62a3d8b1f1.Caption" Value="EnrichmentDefaultIcon" />
+			<Item Name="Images.cd6fb42c-38cc-49a3-8395-f28de0d676b2.Caption" Value="EnrichedDefaultIcon" />
+			<Item Name="LocalizableStrings.AccountPageServiceTab.Value" Value="Apkope" />
+			<Item Name="LocalizableStrings.CompletenessCaption.Value" Value="Profila pabeigšana" />
+			<Item Name="LocalizableStrings.CompletenessHint.Value" Value="Profila pabeigšanas procents. Noklikšķiniet uz indikatora, lai skatītu, kuri dati jāaizpilda, lai pabeigtu profilu." />
+			<Item Name="LocalizableStrings.CompletenessLabel.Value" Value="Profils pabeigts" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonCaption.Value" Value="Jauni dati atrasti ({0})" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonHint.Value" Value="Rādīt jaunus datus konta profila bagātināšanai" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonCaption.Value" Value="Bagātināt datus" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonHint.Value" Value="Meklēt jaunus datus konta bagātināšanai" />
+			<Item Name="LocalizableStrings.FillAccountQuestion.Value" Value="Lai izpildītu šo darbību, kontam ir jānorāda vismaz viens sociālā tīkla profils." />
+			<Item Name="LocalizableStrings.FillAccountWithSocialNetworksDataActionCaption.Value" Value="Atjaunināt ar sociālo tīklu datiem" />
+			<Item Name="LocalizableStrings.OpenAccountCardQuestion.Value" Value="Lai izpildītu šo darbību, kontam ir jānorāda vismaz viens sociālā tīkla profils" />
+			<Item Name="LocalizableStrings.RightsErrorMessage.Value" Value="Nepietiekamas tiesības veikt šo darbību. Sazinieties ar sistēmas administratoru." />
+		</Items>
+	</Group>
+</Resources>

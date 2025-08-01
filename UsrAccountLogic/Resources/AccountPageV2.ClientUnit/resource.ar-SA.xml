@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ar-SA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Images.a4b11c18-9e35-4bfe-ba14-6a62a3d8b1f1.Caption" Value="EnrichmentDefaultIcon" />
+			<Item Name="Images.cd6fb42c-38cc-49a3-8395-f28de0d676b2.Caption" Value="EnrichedDefaultIcon" />
+			<Item Name="LocalizableStrings.AccountPageServiceTab.Value" Value="صيانة" />
+			<Item Name="LocalizableStrings.CompletenessCaption.Value" Value="اكتمال الملف الشخصي" />
+			<Item Name="LocalizableStrings.CompletenessHint.Value" Value="نسبة اكتمال ملف التعريف. انقر فوق المؤشر لمعاينة البيانات التي تحتاج لإكمال ملف التعريف." />
+			<Item Name="LocalizableStrings.CompletenessLabel.Value" Value="ملف تعريف كامل" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonCaption.Value" Value="تم العثور على بيانات جديدة ({0})" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonHint.Value" Value="إظهار بيانات جديدة لإثراء الملف الشخصي للحساب" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonCaption.Value" Value="إثراء البيانات" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonHint.Value" Value="البحث عن بيانات جديدة لإثراء الحساب" />
+			<Item Name="LocalizableStrings.FillAccountQuestion.Value" Value="يجب تحديد ملف تعريف شبكة اجتماعية واحد على الأقل للحساب من أجل تشغيل هذا الإجراء." />
+			<Item Name="LocalizableStrings.FillAccountWithSocialNetworksDataActionCaption.Value" Value="تحديث مع بيانات الشبكات الاجتماعية" />
+			<Item Name="LocalizableStrings.OpenAccountCardQuestion.Value" Value="يجب تحديد ملف تعريف شبكة اجتماعية واحد على الأقل للحساب من أجل تشغيل هذا الإجراء" />
+			<Item Name="LocalizableStrings.RightsErrorMessage.Value" Value="الصلاحيات غير كافية لتنفيذ هذا الإجراء. اتصل بمدير نظامك." />
+		</Items>
+	</Group>
+</Resources>

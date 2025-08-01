@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ja-JP">
+	<Group Type="String">
+		<Items>
+			<Item Name="Images.a4b11c18-9e35-4bfe-ba14-6a62a3d8b1f1.Caption" Value="EnrichmentDefaultIcon" />
+			<Item Name="Images.cd6fb42c-38cc-49a3-8395-f28de0d676b2.Caption" Value="EnrichedDefaultIcon" />
+			<Item Name="LocalizableStrings.AccountPageServiceTab.Value" Value="メンテナンス" />
+			<Item Name="LocalizableStrings.CompletenessCaption.Value" Value="プロフィール完了" />
+			<Item Name="LocalizableStrings.CompletenessHint.Value" Value="プロフィールの完成率です。インジケーターをクリックすると、プロフィールを完成させるために必要なデータが表示されます。." />
+			<Item Name="LocalizableStrings.CompletenessLabel.Value" Value="プロフィール設定完了" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonCaption.Value" Value="新しいデータが見つかりました ({0})" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonHint.Value" Value="アカウントプロフィール強化のための新しいデータを表示する" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonCaption.Value" Value="データを強化" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonHint.Value" Value="アカウント強化のための新しいデータを検索する" />
+			<Item Name="LocalizableStrings.FillAccountQuestion.Value" Value="このアクションを実行するには、アカウントに少なくとも1つのソーシャルネットワークプロファイルを指定する必要があります。" />
+			<Item Name="LocalizableStrings.FillAccountWithSocialNetworksDataActionCaption.Value" Value="ソーシャルネットワークデータの更新" />
+			<Item Name="LocalizableStrings.OpenAccountCardQuestion.Value" Value="このアクションを実行するには、アカウントに少なくとも1つのソーシャルネットワークプロファイルを指定する必要があります" />
+			<Item Name="LocalizableStrings.RightsErrorMessage.Value" Value="このアクションを実行するには権限が不十分です。 システム管理者に連絡してください。" />
+		</Items>
+	</Group>
+</Resources>

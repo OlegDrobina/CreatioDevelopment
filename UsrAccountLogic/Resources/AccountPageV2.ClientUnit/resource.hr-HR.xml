@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hr-HR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Images.a4b11c18-9e35-4bfe-ba14-6a62a3d8b1f1.Caption" Value="EnrichmentDefaultIcon" />
+			<Item Name="Images.cd6fb42c-38cc-49a3-8395-f28de0d676b2.Caption" Value="EnrichedDefaultIcon" />
+			<Item Name="LocalizableStrings.AccountPageServiceTab.Value" Value="Održavanje" />
+			<Item Name="LocalizableStrings.CompletenessCaption.Value" Value="Završetak profila" />
+			<Item Name="LocalizableStrings.CompletenessHint.Value" Value="Postotak dovršenosti profila. Kliknite na indikator za pregled podataka koji su vam potrebni za popunjavanje profila." />
+			<Item Name="LocalizableStrings.CompletenessLabel.Value" Value="Profil je dovršen" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonCaption.Value" Value="Pronađeni novi podaci ({0})" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonHint.Value" Value="Prikaži nove podatke za obogaćivanje profila korisnika" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonCaption.Value" Value="Obogati podatke" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonHint.Value" Value="Pretraži nove podatke za obogaćivanje korisnika" />
+			<Item Name="LocalizableStrings.FillAccountQuestion.Value" Value="Najmanje jedan profil društvene mreže mora biti naveden za korisnika kako bi se pokrenula ova radnja." />
+			<Item Name="LocalizableStrings.FillAccountWithSocialNetworksDataActionCaption.Value" Value="Ažuriranje s podacima društvenih mreža" />
+			<Item Name="LocalizableStrings.OpenAccountCardQuestion.Value" Value="Najmanje jedan profil društvene mreže mora biti naveden za korisnika kako bi se pokrenula ova radnja" />
+			<Item Name="LocalizableStrings.RightsErrorMessage.Value" Value="Nedovoljna prava za izvođenje ove radnje. Kontaktirajte svog sistem administratora." />
+		</Items>
+	</Group>
+</Resources>

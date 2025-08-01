@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="id-ID">
+	<Group Type="String">
+		<Items>
+			<Item Name="Images.a4b11c18-9e35-4bfe-ba14-6a62a3d8b1f1.Caption" Value="EnrichmentDefaultIcon" />
+			<Item Name="Images.cd6fb42c-38cc-49a3-8395-f28de0d676b2.Caption" Value="EnrichedDefaultIcon" />
+			<Item Name="LocalizableStrings.AccountPageServiceTab.Value" Value="Pemeliharaan" />
+			<Item Name="LocalizableStrings.CompletenessCaption.Value" Value="Profil lengkap" />
+			<Item Name="LocalizableStrings.CompletenessHint.Value" Value="Persentasi  penyelesaian profil. Klik indikator untuk melihat data yang anda butuhkan untuk melengkapi profil." />
+			<Item Name="LocalizableStrings.CompletenessLabel.Value" Value="Profil lengkap" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonCaption.Value" Value="Data baru ditemukan ({0})" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonHint.Value" Value="Tampilkan data baru untuk peningkatan profil akun" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonCaption.Value" Value="Tingkatkan data" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonHint.Value" Value="Cari data baru untuk peningkatan akun" />
+			<Item Name="LocalizableStrings.FillAccountQuestion.Value" Value="Setidaknya satu profil jaringan sosial harus ditentukan untuk akun supaya dapat menjalankan langkah ini." />
+			<Item Name="LocalizableStrings.FillAccountWithSocialNetworksDataActionCaption.Value" Value="Perbarui dengan data jaringan sosial" />
+			<Item Name="LocalizableStrings.OpenAccountCardQuestion.Value" Value="Setidaknya satu profil jaringan sosial harus ditentukan untuk akun supaya dapat menjalankan langkah ini" />
+			<Item Name="LocalizableStrings.RightsErrorMessage.Value" Value="Hak akses terbatas untuk aksi ini. Hubungi sistem administrator anda." />
+		</Items>
+	</Group>
+</Resources>

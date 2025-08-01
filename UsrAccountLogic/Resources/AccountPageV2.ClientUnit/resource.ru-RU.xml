@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Images.a4b11c18-9e35-4bfe-ba14-6a62a3d8b1f1.Caption" Value="EnrichmentDefaultIcon" />
+			<Item Name="Images.cd6fb42c-38cc-49a3-8395-f28de0d676b2.Caption" Value="EnrichedDefaultIcon" />
+			<Item Name="LocalizableStrings.AccountPageServiceTab.Value" Value="Обслуживание" />
+			<Item Name="LocalizableStrings.CompletenessCaption.Value" Value="Полнота профиля" />
+			<Item Name="LocalizableStrings.CompletenessHint.Value" Value="Степень наполненности данными профиля. Нажмите на шкалу, чтобы посмотреть, каких данных не хватает в профиле." />
+			<Item Name="LocalizableStrings.CompletenessLabel.Value" Value="Полнота профиля" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonCaption.Value" Value="Найдены данные ({0})" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonHint.Value" Value="Показать найденные данные для обогащения профиля контрагента" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonCaption.Value" Value="Обогатить данные" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonHint.Value" Value="Найти новые данные для обогащения профиля контрагента" />
+			<Item Name="LocalizableStrings.FillAccountQuestion.Value" Value="Для выполнения действия необходимо указать хотя бы одну учетную запись для контрагента в соц. сетях." />
+			<Item Name="LocalizableStrings.FillAccountWithSocialNetworksDataActionCaption.Value" Value="Обогатить данными из соц. сетей" />
+			<Item Name="LocalizableStrings.OpenAccountCardQuestion.Value" Value="Для выполнения действия необходимо указать хотя бы одну учетную запись для контрагента в соц. сетях" />
+			<Item Name="LocalizableStrings.RightsErrorMessage.Value" Value="У вас нет прав на выполнение данного действия. Обратитесь к системному администратору." />
+		</Items>
+	</Group>
+</Resources>

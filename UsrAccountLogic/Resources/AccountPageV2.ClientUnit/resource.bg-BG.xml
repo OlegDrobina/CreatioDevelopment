@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="bg-BG">
+	<Group Type="String">
+		<Items>
+			<Item Name="Images.a4b11c18-9e35-4bfe-ba14-6a62a3d8b1f1.Caption" Value="EnrichmentDefaultIcon" />
+			<Item Name="Images.cd6fb42c-38cc-49a3-8395-f28de0d676b2.Caption" Value="EnrichedDefaultIcon" />
+			<Item Name="LocalizableStrings.AccountPageServiceTab.Value" Value="Поддръжка" />
+			<Item Name="LocalizableStrings.CompletenessCaption.Value" Value="Завършване на профил" />
+			<Item Name="LocalizableStrings.CompletenessHint.Value" Value="Процент на завършеност на профила. Кликнете върху индикатора, за да видите кои данни са ви необходими за попълване на профила." />
+			<Item Name="LocalizableStrings.CompletenessLabel.Value" Value="Профилът е завършен" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonCaption.Value" Value="Намерени нови данни ({0})" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonHint.Value" Value="Покажи нови данни за обогатяване на профила на Юридическото Лице" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonCaption.Value" Value="Обогати данните" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonHint.Value" Value="Търси нови данни за обогатяване на Юридическото Лице" />
+			<Item Name="LocalizableStrings.FillAccountQuestion.Value" Value="За юридическото лице трябва да бъде посочен поне един профил в социалната мрежа, за да се изпълни това действие." />
+			<Item Name="LocalizableStrings.FillAccountWithSocialNetworksDataActionCaption.Value" Value="Обнови с данни от социалните мрежи" />
+			<Item Name="LocalizableStrings.OpenAccountCardQuestion.Value" Value="За юридическото лице трябва да бъде посочен поне един профил в социалната мрежа, за да се изпълни това действие" />
+			<Item Name="LocalizableStrings.RightsErrorMessage.Value" Value="Недостатъчни права за извършване на това действие. Свържи се със системния си администратор." />
+		</Items>
+	</Group>
+</Resources>
