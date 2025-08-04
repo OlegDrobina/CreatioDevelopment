@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="zh-TW">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CasesAddButton_caption.Value" Value="新增" />
+			<Item Name="LocalizableStrings.CasesExpansionPanel_title.Value" Value="案例" />
+			<Item Name="LocalizableStrings.CasesExportDataButton_caption.Value" Value="匯出到 Excel" />
+			<Item Name="LocalizableStrings.CasesImportDataButton_caption.Value" Value="資料匯入" />
+			<Item Name="LocalizableStrings.CasesRefreshButton_caption.Value" Value="刷新" />
+			<Item Name="LocalizableStrings.CasesSearchFilter_placeholder.Value" Value="搜尋" />
+			<Item Name="LocalizableStrings.CasesSettingsButton_caption.Value" Value="行動" />
+			<Item Name="LocalizableStrings.ComboBox_268yz1f_placeholder.Value" Value="選擇來源" />
+			<Item Name="LocalizableStrings.ComboBox_3zub1m3_placeholder.Value" Value="選擇頻道" />
+			<Item Name="LocalizableStrings.CustomerNeed_placeholder.Value" Value="選擇客戶需求" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_czhqpwi_caption.Value" Value="資料匯入" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_769sr56_placeholder.Value" Value="搜尋" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_weylxjf_caption.Value" Value="行動" />
+			<Item Name="LocalizableStrings.LeadAddButton_caption.Value" Value="新增" />
+			<Item Name="LocalizableStrings.LeadExpansionPanel_title.Value" Value="MQL/SQL" />
+			<Item Name="LocalizableStrings.LeadExportDataButton_caption.Value" Value="匯出到 Excel" />
+			<Item Name="LocalizableStrings.LeadImportDataButton_caption.Value" Value="資料匯入" />
+			<Item Name="LocalizableStrings.LeadRefreshButton_caption.Value" Value="刷新" />
+			<Item Name="LocalizableStrings.LeadSearchFilter_placeholder.Value" Value="搜尋" />
+			<Item Name="LocalizableStrings.LeadSettingsButton_caption.Value" Value="行動" />
+			<Item Name="LocalizableStrings.MarketingTab_caption.Value" Value="行銷" />
+			<Item Name="LocalizableStrings.OrderAddButton_caption.Value" Value="新增" />
+			<Item Name="LocalizableStrings.OrderExpansionPanel_title.Value" Value="訂單" />
+			<Item Name="LocalizableStrings.OrderExportDataButton_caption.Value" Value="匯出到 Excel" />
+			<Item Name="LocalizableStrings.OrderImportDataButton_caption.Value" Value="資料匯入" />
+			<Item Name="LocalizableStrings.OrderRefreshButton_caption.Value" Value="刷新" />
+			<Item Name="LocalizableStrings.OrderSearchFilter_placeholder.Value" Value="搜尋" />
+			<Item Name="LocalizableStrings.OrderSettingsButton_caption.Value" Value="行動" />
+			<Item Name="LocalizableStrings.RegisterMethod_placeholder.Value" Value="選擇註冊方式" />
+			<Item Name="LocalizableStrings.SalesTab_caption.Value" Value="銷售" />
+			<Item Name="LocalizableStrings.ServiceTab_caption.Value" Value="服務" />
+			<Item Name="LocalizableStrings.SubmittedFormExpansionPanel_title.Value" Value="提交的表格" />
+			<Item Name="LocalizableStrings.SubmittedFormExportDataButton_caption.Value" Value="匯出到 Excel" />
+			<Item Name="LocalizableStrings.SubmittedFormRefreshButton_caption.Value" Value="刷新" />
+		</Items>
+	</Group>
+</Resources>

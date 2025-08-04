@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.BackButton_caption.Value" Value="Trờ lại" />
+			<Item Name="LocalizableStrings.BankingDetailsAddButton_caption.Value" Value="Hợp đồng mới" />
+			<Item Name="LocalizableStrings.BankingDetailsDataButton_caption.Value" Value="Nhập dữ liệu" />
+			<Item Name="LocalizableStrings.BankingDetailsExportDataButton_caption.Value" Value="Xuất ra Excel" />
+			<Item Name="LocalizableStrings.BankingDetailsRefreshButton_caption.Value" Value="Làm mới" />
+			<Item Name="LocalizableStrings.BankingDetailsSearchFilter_placeholder.Value" Value="Tìm kiếm" />
+			<Item Name="LocalizableStrings.BankingDetailsSettingsButton_caption.Value" Value="Các hành động" />
+			<Item Name="LocalizableStrings.BillingInfoAddButton_caption.Value" Value="Hợp đồng mới" />
+			<Item Name="LocalizableStrings.BillingInfoExpansionPanel_title.Value" Value="Thông tin tài khoản ngân hàng" />
+			<Item Name="LocalizableStrings.BillingInfoExportDataButton_caption.Value" Value="Xuất ra Excel" />
+			<Item Name="LocalizableStrings.BillingInfoImportDataButton_caption.Value" Value="Nhập dữ liệu" />
+			<Item Name="LocalizableStrings.BillingInfoRefreshButton_caption.Value" Value="Làm mới" />
+			<Item Name="LocalizableStrings.BillingInfoSearchFilter_placeholder.Value" Value="Tìm kiếm" />
+			<Item Name="LocalizableStrings.CasesAddButton_caption.Value" Value="Hợp đồng mới" />
+			<Item Name="LocalizableStrings.CasesExpansionPanel_title.Value" Value="Các trường hợp" />
+			<Item Name="LocalizableStrings.CasesExportDataButton_caption.Value" Value="Xuất ra Excel" />
+			<Item Name="LocalizableStrings.CasesImportDataButton_caption.Value" Value="Nhập dữ liệu" />
+			<Item Name="LocalizableStrings.CasesRefreshButton_caption.Value" Value="Làm mới" />
+			<Item Name="LocalizableStrings.CasesSearchFilter_placeholder.Value" Value="Tìm kiếm" />
+			<Item Name="LocalizableStrings.CasesSettingsButton_caption.Value" Value="Các hành động" />
+			<Item Name="LocalizableStrings.CloseButton_caption.Value" Value="Đóng" />
+			<Item Name="LocalizableStrings.ContractAddButton_caption.Value" Value="Hợp đồng mới" />
+			<Item Name="LocalizableStrings.ContractExpansionPanel_title.Value" Value="Các hợp đồng" />
+			<Item Name="LocalizableStrings.ContractExportDataButton_caption.Value" Value="Xuất ra Excel" />
+			<Item Name="LocalizableStrings.ContractImportDataButton_caption.Value" Value="Nhập dữ liệu" />
+			<Item Name="LocalizableStrings.ContractRefreshButton_caption.Value" Value="Làm mới" />
+			<Item Name="LocalizableStrings.ContractSearchFilter_placeholder.Value" Value="Tìm kiếm" />
+			<Item Name="LocalizableStrings.ContractSettingsButton_caption.Value" Value="Các hành động" />
+			<Item Name="LocalizableStrings.DocumentAddButton_caption.Value" Value="Mới" />
+			<Item Name="LocalizableStrings.DocumentExpansionPanel_title.Value" Value="Các tài liệu" />
+			<Item Name="LocalizableStrings.DocumentExportDataButton_caption.Value" Value="Xuất ra Excel" />
+			<Item Name="LocalizableStrings.DocumentmportDataButton_caption.Value" Value="Nhập dữ liệu" />
+			<Item Name="LocalizableStrings.DocumentRefreshButton_caption.Value" Value="Làm mới" />
+			<Item Name="LocalizableStrings.DocumentSearchFilter_placeholder.Value" Value="Tìm kiếm" />
+			<Item Name="LocalizableStrings.DocumentSettingsButton_caption.Value" Value="Các hành động" />
+			<Item Name="LocalizableStrings.ExpansionPanel_gqzom9h_title.Value" Value="Expanded list" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_ghwso4q_caption.Value" Value="Nhập dữ liệu" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_oabjslj_caption.Value" Value="Làm mới" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_zeotc7u_placeholder.Value" Value="Tìm kiếm" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_lv7bn4j_caption.Value" Value="Các hành động" />
+			<Item Name="LocalizableStrings.LeadAddButton_caption.Value" Value="Hợp đồng mới" />
+			<Item Name="LocalizableStrings.LeadExpansionPanel_title.Value" Value="MQL/SQL" />
+			<Item Name="LocalizableStrings.LeadExportDataButton_caption.Value" Value="Xuất ra Excel" />
+			<Item Name="LocalizableStrings.LeadImportDataButton_caption.Value" Value="Nhập dữ liệu" />
+			<Item Name="LocalizableStrings.LeadRefreshButton_caption.Value" Value="Làm mới" />
+			<Item Name="LocalizableStrings.LeadSearchFilter_placeholder.Value" Value="Tìm kiếm" />
+			<Item Name="LocalizableStrings.LeadSettingsButton_caption.Value" Value="Các hành động" />
+			<Item Name="LocalizableStrings.OrderAddButton_caption.Value" Value="Hợp đồng mới" />
+			<Item Name="LocalizableStrings.OrderExpansionPanel_title.Value" Value="Đơn đặt hàng" />
+			<Item Name="LocalizableStrings.OrderExportDataButton_caption.Value" Value="Xuất ra Excel" />
+			<Item Name="LocalizableStrings.OrderImportDataButton_caption.Value" Value="Nhập dữ liệu" />
+			<Item Name="LocalizableStrings.OrderRefreshButton_caption.Value" Value="Làm mới" />
+			<Item Name="LocalizableStrings.OrderSearchFilter_placeholder.Value" Value="Tìm kiếm" />
+			<Item Name="LocalizableStrings.OrderSettingsButton_caption.Value" Value="Các hành động" />
+			<Item Name="LocalizableStrings.SalesTab_caption.Value" Value="Bán hàng" />
+			<Item Name="LocalizableStrings.ServiceTab_caption.Value" Value="Các tiện ích" />
+		</Items>
+	</Group>
+</Resources>

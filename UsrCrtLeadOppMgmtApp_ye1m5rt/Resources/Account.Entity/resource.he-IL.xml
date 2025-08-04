@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.AccountCategory.Caption" Value="קטגוריה" />
+			<Item Name="Columns.AccountLogo.Caption" Value="סמל החברה" />
+			<Item Name="Columns.AddressType.Caption" Value="סוג כתובת" />
+			<Item Name="Columns.AnnualRevenue.Caption" Value="הכנסה שנתית" />
+			<Item Name="Columns.City.Caption" Value="עיר" />
+			<Item Name="Columns.Country.Caption" Value="מדינה" />
+			<Item Name="Columns.CreatedBy.Caption" Value="נוצר על ידי" />
+			<Item Name="Columns.EmployeesNumber.Caption" Value="מספר עובדים" />
+			<Item Name="Columns.Industry.Caption" Value="תעשייה" />
+			<Item Name="Columns.ModifiedBy.Caption" Value="השתנה על ידי" />
+			<Item Name="Columns.Owner.Caption" Value="בעלים" />
+			<Item Name="Columns.Ownership.Caption" Value="ישות עסקית" />
+			<Item Name="Columns.Parent.Caption" Value="חברת אב" />
+			<Item Name="Columns.PriceList.Caption" Value="מחירון" />
+			<Item Name="Columns.PrimaryContact.Caption" Value="איש קשר מרכזי" />
+			<Item Name="Columns.Region.Caption" Value="מדינה/מחוז" />
+			<Item Name="Columns.Type.Caption" Value="סוג" />
+		</Items>
+	</Group>
+</Resources>

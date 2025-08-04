@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="bg-BG">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.BackButton_caption.Value" Value="Назад" />
+			<Item Name="LocalizableStrings.BankingDetailsAddButton_caption.Value" Value="Нов" />
+			<Item Name="LocalizableStrings.BankingDetailsDataButton_caption.Value" Value="Импортиране на данни" />
+			<Item Name="LocalizableStrings.BankingDetailsExportDataButton_caption.Value" Value="Експортирай към Excel" />
+			<Item Name="LocalizableStrings.BankingDetailsRefreshButton_caption.Value" Value="Опресни" />
+			<Item Name="LocalizableStrings.BankingDetailsSearchFilter_placeholder.Value" Value="Търси" />
+			<Item Name="LocalizableStrings.BankingDetailsSettingsButton_caption.Value" Value="Действия" />
+			<Item Name="LocalizableStrings.BillingInfoAddButton_caption.Value" Value="Ново" />
+			<Item Name="LocalizableStrings.BillingInfoExpansionPanel_title.Value" Value="Банкови детайли" />
+			<Item Name="LocalizableStrings.BillingInfoExportDataButton_caption.Value" Value="Експортирай към Excel" />
+			<Item Name="LocalizableStrings.BillingInfoImportDataButton_caption.Value" Value="Импортиране на данни" />
+			<Item Name="LocalizableStrings.BillingInfoRefreshButton_caption.Value" Value="Опресни" />
+			<Item Name="LocalizableStrings.BillingInfoSearchFilter_placeholder.Value" Value="Търсене" />
+			<Item Name="LocalizableStrings.CasesAddButton_caption.Value" Value="Нов" />
+			<Item Name="LocalizableStrings.CasesExpansionPanel_title.Value" Value="Случай" />
+			<Item Name="LocalizableStrings.CasesExportDataButton_caption.Value" Value="Експортирай към Excel" />
+			<Item Name="LocalizableStrings.CasesImportDataButton_caption.Value" Value="Импортиране на данни" />
+			<Item Name="LocalizableStrings.CasesRefreshButton_caption.Value" Value="Опресни" />
+			<Item Name="LocalizableStrings.CasesSearchFilter_placeholder.Value" Value="Търси" />
+			<Item Name="LocalizableStrings.CasesSettingsButton_caption.Value" Value="Действия" />
+			<Item Name="LocalizableStrings.CloseButton_caption.Value" Value="Затвори" />
+			<Item Name="LocalizableStrings.ContractAddButton_caption.Value" Value="Нов" />
+			<Item Name="LocalizableStrings.ContractExpansionPanel_title.Value" Value="Договори" />
+			<Item Name="LocalizableStrings.ContractExportDataButton_caption.Value" Value="Експортирай към Excel" />
+			<Item Name="LocalizableStrings.ContractImportDataButton_caption.Value" Value="Импортиране на данни" />
+			<Item Name="LocalizableStrings.ContractRefreshButton_caption.Value" Value="Опресни" />
+			<Item Name="LocalizableStrings.ContractSearchFilter_placeholder.Value" Value="Търси" />
+			<Item Name="LocalizableStrings.ContractSettingsButton_caption.Value" Value="Действия" />
+			<Item Name="LocalizableStrings.DocumentAddButton_caption.Value" Value="Нов" />
+			<Item Name="LocalizableStrings.DocumentExpansionPanel_title.Value" Value="Документи" />
+			<Item Name="LocalizableStrings.DocumentExportDataButton_caption.Value" Value="Експортирай към Excel" />
+			<Item Name="LocalizableStrings.DocumentmportDataButton_caption.Value" Value="Импортиране на данни" />
+			<Item Name="LocalizableStrings.DocumentRefreshButton_caption.Value" Value="Опресни" />
+			<Item Name="LocalizableStrings.DocumentSearchFilter_placeholder.Value" Value="Търси" />
+			<Item Name="LocalizableStrings.DocumentSettingsButton_caption.Value" Value="Действия" />
+			<Item Name="LocalizableStrings.ExpansionPanel_gqzom9h_title.Value" Value="Разширен списък" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_ghwso4q_caption.Value" Value="Импортиране на данни" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_oabjslj_caption.Value" Value="Опресни" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_zeotc7u_placeholder.Value" Value="Търси" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_lv7bn4j_caption.Value" Value="Действия" />
+			<Item Name="LocalizableStrings.LeadAddButton_caption.Value" Value="Нова" />
+			<Item Name="LocalizableStrings.LeadExpansionPanel_title.Value" Value="MQL/SQL" />
+			<Item Name="LocalizableStrings.LeadExportDataButton_caption.Value" Value="Експортирай към Excel" />
+			<Item Name="LocalizableStrings.LeadImportDataButton_caption.Value" Value="Импортиране на данни" />
+			<Item Name="LocalizableStrings.LeadRefreshButton_caption.Value" Value="Опресни" />
+			<Item Name="LocalizableStrings.LeadSearchFilter_placeholder.Value" Value="Търси" />
+			<Item Name="LocalizableStrings.LeadSettingsButton_caption.Value" Value="Действия" />
+			<Item Name="LocalizableStrings.OrderAddButton_caption.Value" Value="Нова" />
+			<Item Name="LocalizableStrings.OrderExpansionPanel_title.Value" Value="Поръчки" />
+			<Item Name="LocalizableStrings.OrderExportDataButton_caption.Value" Value="Експортиране на Excel" />
+			<Item Name="LocalizableStrings.OrderImportDataButton_caption.Value" Value="Импортиране на данни" />
+			<Item Name="LocalizableStrings.OrderRefreshButton_caption.Value" Value="Опресни" />
+			<Item Name="LocalizableStrings.OrderSearchFilter_placeholder.Value" Value="Търси" />
+			<Item Name="LocalizableStrings.OrderSettingsButton_caption.Value" Value="Действия" />
+			<Item Name="LocalizableStrings.SalesTab_caption.Value" Value="Продажби" />
+			<Item Name="LocalizableStrings.ServiceTab_caption.Value" Value="Обслужване" />
+		</Items>
+	</Group>
+</Resources>

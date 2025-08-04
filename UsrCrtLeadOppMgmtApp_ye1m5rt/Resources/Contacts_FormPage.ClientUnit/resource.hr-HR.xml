@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hr-HR">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CasesAddButton_caption.Value" Value="Novo" />
+			<Item Name="LocalizableStrings.CasesExpansionPanel_title.Value" Value="Zahtjevi" />
+			<Item Name="LocalizableStrings.CasesExportDataButton_caption.Value" Value="Izvoz u Excel" />
+			<Item Name="LocalizableStrings.CasesImportDataButton_caption.Value" Value="Uvoz podataka" />
+			<Item Name="LocalizableStrings.CasesRefreshButton_caption.Value" Value="Osvježi" />
+			<Item Name="LocalizableStrings.CasesSearchFilter_placeholder.Value" Value="Pretraži" />
+			<Item Name="LocalizableStrings.CasesSettingsButton_caption.Value" Value="Akcije" />
+			<Item Name="LocalizableStrings.ComboBox_268yz1f_placeholder.Value" Value="Odaberite izvor" />
+			<Item Name="LocalizableStrings.ComboBox_3zub1m3_placeholder.Value" Value="Odaberite kanal" />
+			<Item Name="LocalizableStrings.CustomerNeed_placeholder.Value" Value="Odaberite potrebu klijenta" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_czhqpwi_caption.Value" Value="Uvoz podataka" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_769sr56_placeholder.Value" Value="Pretraži" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_weylxjf_caption.Value" Value="Akcije" />
+			<Item Name="LocalizableStrings.LeadAddButton_caption.Value" Value="Novo" />
+			<Item Name="LocalizableStrings.LeadExpansionPanel_title.Value" Value="MQL/SQL" />
+			<Item Name="LocalizableStrings.LeadExportDataButton_caption.Value" Value="Izvoz u Excel" />
+			<Item Name="LocalizableStrings.LeadImportDataButton_caption.Value" Value="Uvoz podataka" />
+			<Item Name="LocalizableStrings.LeadRefreshButton_caption.Value" Value="Osvježi" />
+			<Item Name="LocalizableStrings.LeadSearchFilter_placeholder.Value" Value="Pretraži" />
+			<Item Name="LocalizableStrings.LeadSettingsButton_caption.Value" Value="Akcije" />
+			<Item Name="LocalizableStrings.MarketingTab_caption.Value" Value="Marketing" />
+			<Item Name="LocalizableStrings.OrderAddButton_caption.Value" Value="Novo" />
+			<Item Name="LocalizableStrings.OrderExpansionPanel_title.Value" Value="Narudžbe" />
+			<Item Name="LocalizableStrings.OrderExportDataButton_caption.Value" Value="Izvoz u Excel" />
+			<Item Name="LocalizableStrings.OrderImportDataButton_caption.Value" Value="Uvoz podataka" />
+			<Item Name="LocalizableStrings.OrderRefreshButton_caption.Value" Value="Osvježi" />
+			<Item Name="LocalizableStrings.OrderSearchFilter_placeholder.Value" Value="Pretraži" />
+			<Item Name="LocalizableStrings.OrderSettingsButton_caption.Value" Value="Akcije" />
+			<Item Name="LocalizableStrings.RegisterMethod_placeholder.Value" Value="Odaberite način registracije" />
+			<Item Name="LocalizableStrings.SalesTab_caption.Value" Value="Prodaja" />
+			<Item Name="LocalizableStrings.ServiceTab_caption.Value" Value="Usluga" />
+			<Item Name="LocalizableStrings.SubmittedFormExpansionPanel_title.Value" Value="Potvrđene forme" />
+			<Item Name="LocalizableStrings.SubmittedFormExportDataButton_caption.Value" Value="Izvoz u Excel" />
+			<Item Name="LocalizableStrings.SubmittedFormRefreshButton_caption.Value" Value="Osvježi" />
+		</Items>
+	</Group>
+</Resources>

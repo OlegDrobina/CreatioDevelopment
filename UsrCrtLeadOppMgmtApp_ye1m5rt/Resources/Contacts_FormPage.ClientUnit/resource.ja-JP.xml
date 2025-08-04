@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ja-JP">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CasesAddButton_caption.Value" Value="新規" />
+			<Item Name="LocalizableStrings.CasesExpansionPanel_title.Value" Value="ケース" />
+			<Item Name="LocalizableStrings.CasesExportDataButton_caption.Value" Value="Excel出力" />
+			<Item Name="LocalizableStrings.CasesImportDataButton_caption.Value" Value="インポート" />
+			<Item Name="LocalizableStrings.CasesRefreshButton_caption.Value" Value="更新" />
+			<Item Name="LocalizableStrings.CasesSearchFilter_placeholder.Value" Value="検索" />
+			<Item Name="LocalizableStrings.CasesSettingsButton_caption.Value" Value="アクション" />
+			<Item Name="LocalizableStrings.ComboBox_268yz1f_placeholder.Value" Value="ソースを選択" />
+			<Item Name="LocalizableStrings.ComboBox_3zub1m3_placeholder.Value" Value="チャネルを選択" />
+			<Item Name="LocalizableStrings.CustomerNeed_placeholder.Value" Value="顧客ニーズを選択" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_czhqpwi_caption.Value" Value="インポート" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_769sr56_placeholder.Value" Value="検索" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_weylxjf_caption.Value" Value="アクション" />
+			<Item Name="LocalizableStrings.LeadAddButton_caption.Value" Value="新規" />
+			<Item Name="LocalizableStrings.LeadExpansionPanel_title.Value" Value="MQL/SQL" />
+			<Item Name="LocalizableStrings.LeadExportDataButton_caption.Value" Value="Excelにエクスポート" />
+			<Item Name="LocalizableStrings.LeadImportDataButton_caption.Value" Value="インポート" />
+			<Item Name="LocalizableStrings.LeadRefreshButton_caption.Value" Value="更新" />
+			<Item Name="LocalizableStrings.LeadSearchFilter_placeholder.Value" Value="検索" />
+			<Item Name="LocalizableStrings.LeadSettingsButton_caption.Value" Value="アクション" />
+			<Item Name="LocalizableStrings.MarketingTab_caption.Value" Value="マーケティング" />
+			<Item Name="LocalizableStrings.OrderAddButton_caption.Value" Value="新規" />
+			<Item Name="LocalizableStrings.OrderExpansionPanel_title.Value" Value="受注" />
+			<Item Name="LocalizableStrings.OrderExportDataButton_caption.Value" Value="Excel出力" />
+			<Item Name="LocalizableStrings.OrderImportDataButton_caption.Value" Value="インポート" />
+			<Item Name="LocalizableStrings.OrderRefreshButton_caption.Value" Value="更新" />
+			<Item Name="LocalizableStrings.OrderSearchFilter_placeholder.Value" Value="検索" />
+			<Item Name="LocalizableStrings.OrderSettingsButton_caption.Value" Value="アクション" />
+			<Item Name="LocalizableStrings.RegisterMethod_placeholder.Value" Value="登録方法を選択" />
+			<Item Name="LocalizableStrings.SalesTab_caption.Value" Value="営業" />
+			<Item Name="LocalizableStrings.ServiceTab_caption.Value" Value="サービス" />
+			<Item Name="LocalizableStrings.SubmittedFormExpansionPanel_title.Value" Value="送信Webフォーム" />
+			<Item Name="LocalizableStrings.SubmittedFormExportDataButton_caption.Value" Value="Excel出力" />
+			<Item Name="LocalizableStrings.SubmittedFormRefreshButton_caption.Value" Value="更新" />
+		</Items>
+	</Group>
+</Resources>

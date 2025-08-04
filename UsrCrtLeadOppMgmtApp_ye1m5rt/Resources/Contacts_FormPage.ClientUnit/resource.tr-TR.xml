@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="tr-TR">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CasesAddButton_caption.Value" Value="Yeni sözleşme" />
+			<Item Name="LocalizableStrings.CasesExpansionPanel_title.Value" Value="Vakalar" />
+			<Item Name="LocalizableStrings.CasesExportDataButton_caption.Value" Value="Excel'e Aktar" />
+			<Item Name="LocalizableStrings.CasesImportDataButton_caption.Value" Value="Veri içe aktarma" />
+			<Item Name="LocalizableStrings.CasesRefreshButton_caption.Value" Value="Yenile" />
+			<Item Name="LocalizableStrings.CasesSearchFilter_placeholder.Value" Value="Ara" />
+			<Item Name="LocalizableStrings.CasesSettingsButton_caption.Value" Value="Aksiyonlar" />
+			<Item Name="LocalizableStrings.ComboBox_268yz1f_placeholder.Value" Value="Select source" />
+			<Item Name="LocalizableStrings.ComboBox_3zub1m3_placeholder.Value" Value="Kanal seçin" />
+			<Item Name="LocalizableStrings.CustomerNeed_placeholder.Value" Value="Müşteri İhtiyacı Seçin" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_czhqpwi_caption.Value" Value="Veri içe aktarma" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_769sr56_placeholder.Value" Value="Ara" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_weylxjf_caption.Value" Value="Aksiyonlar" />
+			<Item Name="LocalizableStrings.LeadAddButton_caption.Value" Value="Yeni sözleşme" />
+			<Item Name="LocalizableStrings.LeadExpansionPanel_title.Value" Value="MQL/SQL" />
+			<Item Name="LocalizableStrings.LeadExportDataButton_caption.Value" Value="Excel'e Aktar" />
+			<Item Name="LocalizableStrings.LeadImportDataButton_caption.Value" Value="Veri içe aktarma" />
+			<Item Name="LocalizableStrings.LeadRefreshButton_caption.Value" Value="Yenile" />
+			<Item Name="LocalizableStrings.LeadSearchFilter_placeholder.Value" Value="Ara" />
+			<Item Name="LocalizableStrings.LeadSettingsButton_caption.Value" Value="Aksiyonlar" />
+			<Item Name="LocalizableStrings.MarketingTab_caption.Value" Value="Pazarlama" />
+			<Item Name="LocalizableStrings.OrderAddButton_caption.Value" Value="Yeni sözleşme" />
+			<Item Name="LocalizableStrings.OrderExpansionPanel_title.Value" Value="Siparişler" />
+			<Item Name="LocalizableStrings.OrderExportDataButton_caption.Value" Value="Excel'e Aktar" />
+			<Item Name="LocalizableStrings.OrderImportDataButton_caption.Value" Value="Veri içe aktarma" />
+			<Item Name="LocalizableStrings.OrderRefreshButton_caption.Value" Value="Yenile" />
+			<Item Name="LocalizableStrings.OrderSearchFilter_placeholder.Value" Value="Ara" />
+			<Item Name="LocalizableStrings.OrderSettingsButton_caption.Value" Value="Aksiyonlar" />
+			<Item Name="LocalizableStrings.RegisterMethod_placeholder.Value" Value="Kayıt Yöntemi'ni seçin" />
+			<Item Name="LocalizableStrings.SalesTab_caption.Value" Value="Satış" />
+			<Item Name="LocalizableStrings.ServiceTab_caption.Value" Value="Servis" />
+			<Item Name="LocalizableStrings.SubmittedFormExpansionPanel_title.Value" Value="Doldurulan formlar" />
+			<Item Name="LocalizableStrings.SubmittedFormExportDataButton_caption.Value" Value="Excel'e Aktar" />
+			<Item Name="LocalizableStrings.SubmittedFormRefreshButton_caption.Value" Value="Yenile" />
+		</Items>
+	</Group>
+</Resources>

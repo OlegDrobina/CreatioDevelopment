@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ar-SA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.AccountCategory.Caption" Value="الفئة" />
+			<Item Name="Columns.AccountLogo.Caption" Value="شعار الحساب" />
+			<Item Name="Columns.AddressType.Caption" Value="نوع العنوان" />
+			<Item Name="Columns.AnnualRevenue.Caption" Value="العائد السنوي" />
+			<Item Name="Columns.City.Caption" Value="المدينة" />
+			<Item Name="Columns.Country.Caption" Value="المدينة" />
+			<Item Name="Columns.CreatedBy.Caption" Value="أنشأه" />
+			<Item Name="Columns.EmployeesNumber.Caption" Value="عدد الموظفين" />
+			<Item Name="Columns.Industry.Caption" Value="المصنع" />
+			<Item Name="Columns.ModifiedBy.Caption" Value="معدل من طرف" />
+			<Item Name="Columns.Owner.Caption" Value="المالك" />
+			<Item Name="Columns.Ownership.Caption" Value="وحدة العمل" />
+			<Item Name="Columns.Parent.Caption" Value="حساب ولي الأمر" />
+			<Item Name="Columns.PriceList.Caption" Value="قائمة الأسعار" />
+			<Item Name="Columns.PrimaryContact.Caption" Value="جهة الاتصال الأولية" />
+			<Item Name="Columns.Region.Caption" Value="الولاية/ الإقليم" />
+			<Item Name="Columns.Type.Caption" Value="نوع" />
+		</Items>
+	</Group>
+</Resources>

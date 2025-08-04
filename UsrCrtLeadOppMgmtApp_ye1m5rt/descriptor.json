@@ -1,0 +1,71 @@
+﻿{
+  "Descriptor": {
+    "UId": "14d99d9c-0a27-49f3-9864-62c73ddb1c30",
+    "Name": "UsrCrtLeadOppMgmtApp_ye1m5rt",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1754302718000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/UsrCrtLeadOppMgmtApp_ye1m5rt.csproj",
+    "DependsOn": [
+      {
+        "UId": "33516fc5-1c52-ed30-264b-a3cbcd3d1b33",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtOrderContractInC360",
+        "Type": 1,
+        "InstallBehavior": 1
+      },
+      {
+        "UId": "3f8d4a5e-a1cd-625a-8143-d26ec18bb188",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtLeadOppMgmtInC360",
+        "Type": 1,
+        "InstallBehavior": 1
+      },
+      {
+        "UId": "4edcd275-5e69-630b-1b85-5c2bcb84d7c4",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCampaign"
+      },
+      {
+        "UId": "708b1c13-26c8-e77f-ec94-f3ac840ad588",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtWebTrackingBase"
+      },
+      {
+        "UId": "7f7fd442-73f5-43b9-aae2-a3e87a53abb3",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtLeadOppMgmtApp",
+        "Type": 1
+      },
+      {
+        "UId": "8013d4d9-4337-2f3f-db83-d270ebbd456a",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtBulkEmailEngine"
+      },
+      {
+        "UId": "b3a694fe-f6c8-2691-5a29-a6a51930b203",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtEvent"
+      },
+      {
+        "UId": "b8b21e51-9f46-5ec8-7c53-32cbd8b5c6c1",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCasesInC360",
+        "Type": 1,
+        "InstallBehavior": 1
+      },
+      {
+        "UId": "bda2916d-1b8a-1fa2-ab37-43798c48146f",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtSLMITILService",
+        "Type": 1
+      },
+      {
+        "UId": "d9327c05-e844-d915-76a7-280e237e3c6a",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtDigitalAdsInC360",
+        "InstallBehavior": 1
+      }
+    ]
+  }
+}

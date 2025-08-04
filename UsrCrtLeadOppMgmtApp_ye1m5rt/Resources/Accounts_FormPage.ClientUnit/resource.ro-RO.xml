@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.BackButton_caption.Value" Value="Înapoi" />
+			<Item Name="LocalizableStrings.BankingDetailsAddButton_caption.Value" Value="Nou" />
+			<Item Name="LocalizableStrings.BankingDetailsDataButton_caption.Value" Value="Import de date" />
+			<Item Name="LocalizableStrings.BankingDetailsExportDataButton_caption.Value" Value="Export Excel" />
+			<Item Name="LocalizableStrings.BankingDetailsRefreshButton_caption.Value" Value="Reimprospatare" />
+			<Item Name="LocalizableStrings.BankingDetailsSearchFilter_placeholder.Value" Value="Cautati" />
+			<Item Name="LocalizableStrings.BankingDetailsSettingsButton_caption.Value" Value="Actiuni" />
+			<Item Name="LocalizableStrings.BillingInfoAddButton_caption.Value" Value="Nou" />
+			<Item Name="LocalizableStrings.BillingInfoExpansionPanel_title.Value" Value="Detalii bancare" />
+			<Item Name="LocalizableStrings.BillingInfoExportDataButton_caption.Value" Value="Export Excel" />
+			<Item Name="LocalizableStrings.BillingInfoImportDataButton_caption.Value" Value="Import de date" />
+			<Item Name="LocalizableStrings.BillingInfoRefreshButton_caption.Value" Value="Reimprospatare" />
+			<Item Name="LocalizableStrings.BillingInfoSearchFilter_placeholder.Value" Value="Cautati" />
+			<Item Name="LocalizableStrings.CasesAddButton_caption.Value" Value="Nou" />
+			<Item Name="LocalizableStrings.CasesExpansionPanel_title.Value" Value="Cazuri" />
+			<Item Name="LocalizableStrings.CasesExportDataButton_caption.Value" Value="Export Excel" />
+			<Item Name="LocalizableStrings.CasesImportDataButton_caption.Value" Value="Import de date" />
+			<Item Name="LocalizableStrings.CasesRefreshButton_caption.Value" Value="Reimprospatare" />
+			<Item Name="LocalizableStrings.CasesSearchFilter_placeholder.Value" Value="Cautati" />
+			<Item Name="LocalizableStrings.CasesSettingsButton_caption.Value" Value="Actiuni" />
+			<Item Name="LocalizableStrings.CloseButton_caption.Value" Value="Închide" />
+			<Item Name="LocalizableStrings.ContractAddButton_caption.Value" Value="Nou" />
+			<Item Name="LocalizableStrings.ContractExpansionPanel_title.Value" Value="Contracte" />
+			<Item Name="LocalizableStrings.ContractExportDataButton_caption.Value" Value="Export Excel" />
+			<Item Name="LocalizableStrings.ContractImportDataButton_caption.Value" Value="Import de date" />
+			<Item Name="LocalizableStrings.ContractRefreshButton_caption.Value" Value="Reimprospatare" />
+			<Item Name="LocalizableStrings.ContractSearchFilter_placeholder.Value" Value="Cautati" />
+			<Item Name="LocalizableStrings.ContractSettingsButton_caption.Value" Value="Actiuni" />
+			<Item Name="LocalizableStrings.DocumentAddButton_caption.Value" Value="Nou" />
+			<Item Name="LocalizableStrings.DocumentExpansionPanel_title.Value" Value="Documente" />
+			<Item Name="LocalizableStrings.DocumentExportDataButton_caption.Value" Value="Export Excel" />
+			<Item Name="LocalizableStrings.DocumentmportDataButton_caption.Value" Value="Import de date" />
+			<Item Name="LocalizableStrings.DocumentRefreshButton_caption.Value" Value="Reimprospatare" />
+			<Item Name="LocalizableStrings.DocumentSearchFilter_placeholder.Value" Value="Cautati" />
+			<Item Name="LocalizableStrings.DocumentSettingsButton_caption.Value" Value="Actiuni" />
+			<Item Name="LocalizableStrings.ExpansionPanel_gqzom9h_title.Value" Value="Listă extinsă" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_ghwso4q_caption.Value" Value="Import de date" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_oabjslj_caption.Value" Value="Reimprospatare" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_zeotc7u_placeholder.Value" Value="Cautati" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_lv7bn4j_caption.Value" Value="Actiuni" />
+			<Item Name="LocalizableStrings.LeadAddButton_caption.Value" Value="Nou" />
+			<Item Name="LocalizableStrings.LeadExpansionPanel_title.Value" Value="MQL/SQL" />
+			<Item Name="LocalizableStrings.LeadExportDataButton_caption.Value" Value="Exportă în Excel" />
+			<Item Name="LocalizableStrings.LeadImportDataButton_caption.Value" Value="Import de date" />
+			<Item Name="LocalizableStrings.LeadRefreshButton_caption.Value" Value="Reîncarcă" />
+			<Item Name="LocalizableStrings.LeadSearchFilter_placeholder.Value" Value="Căutare" />
+			<Item Name="LocalizableStrings.LeadSettingsButton_caption.Value" Value="Acțiuni" />
+			<Item Name="LocalizableStrings.OrderAddButton_caption.Value" Value="Nou" />
+			<Item Name="LocalizableStrings.OrderExpansionPanel_title.Value" Value="Comenzi" />
+			<Item Name="LocalizableStrings.OrderExportDataButton_caption.Value" Value="Export Excel" />
+			<Item Name="LocalizableStrings.OrderImportDataButton_caption.Value" Value="Import de date" />
+			<Item Name="LocalizableStrings.OrderRefreshButton_caption.Value" Value="Reimprospatare" />
+			<Item Name="LocalizableStrings.OrderSearchFilter_placeholder.Value" Value="Cautati" />
+			<Item Name="LocalizableStrings.OrderSettingsButton_caption.Value" Value="Actiuni" />
+			<Item Name="LocalizableStrings.SalesTab_caption.Value" Value="Vanzari" />
+			<Item Name="LocalizableStrings.ServiceTab_caption.Value" Value="Serviciu" />
+		</Items>
+	</Group>
+</Resources>

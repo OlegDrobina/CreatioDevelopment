@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ar-SA">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CasesAddButton_caption.Value" Value="جديد" />
+			<Item Name="LocalizableStrings.CasesExpansionPanel_title.Value" Value="الحالات" />
+			<Item Name="LocalizableStrings.CasesExportDataButton_caption.Value" Value="تصدير إلى إكسل" />
+			<Item Name="LocalizableStrings.CasesImportDataButton_caption.Value" Value="استيراد البيانات" />
+			<Item Name="LocalizableStrings.CasesRefreshButton_caption.Value" Value="تحديث" />
+			<Item Name="LocalizableStrings.CasesSearchFilter_placeholder.Value" Value="بحث" />
+			<Item Name="LocalizableStrings.CasesSettingsButton_caption.Value" Value="الإجراءات" />
+			<Item Name="LocalizableStrings.ComboBox_268yz1f_placeholder.Value" Value="حدد مصدر" />
+			<Item Name="LocalizableStrings.ComboBox_3zub1m3_placeholder.Value" Value="حدد القناة" />
+			<Item Name="LocalizableStrings.CustomerNeed_placeholder.Value" Value="حدد احتياج العميل" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_czhqpwi_caption.Value" Value="استيراد البيانات" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_769sr56_placeholder.Value" Value="بحث" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_weylxjf_caption.Value" Value="الإجراءات" />
+			<Item Name="LocalizableStrings.LeadAddButton_caption.Value" Value="جديد" />
+			<Item Name="LocalizableStrings.LeadExpansionPanel_title.Value" Value="MQL/SQL" />
+			<Item Name="LocalizableStrings.LeadExportDataButton_caption.Value" Value="تصدير إلى إكسل" />
+			<Item Name="LocalizableStrings.LeadImportDataButton_caption.Value" Value="استيراد البيانات" />
+			<Item Name="LocalizableStrings.LeadRefreshButton_caption.Value" Value="تحديث" />
+			<Item Name="LocalizableStrings.LeadSearchFilter_placeholder.Value" Value="بحث" />
+			<Item Name="LocalizableStrings.LeadSettingsButton_caption.Value" Value="الإجراءات" />
+			<Item Name="LocalizableStrings.MarketingTab_caption.Value" Value="التسويق" />
+			<Item Name="LocalizableStrings.OrderAddButton_caption.Value" Value="جديد" />
+			<Item Name="LocalizableStrings.OrderExpansionPanel_title.Value" Value="أوامر" />
+			<Item Name="LocalizableStrings.OrderExportDataButton_caption.Value" Value="تصدير إلى إكسل" />
+			<Item Name="LocalizableStrings.OrderImportDataButton_caption.Value" Value="استيراد البيانات" />
+			<Item Name="LocalizableStrings.OrderRefreshButton_caption.Value" Value="تحديث" />
+			<Item Name="LocalizableStrings.OrderSearchFilter_placeholder.Value" Value="بحث" />
+			<Item Name="LocalizableStrings.OrderSettingsButton_caption.Value" Value="الإجراءات" />
+			<Item Name="LocalizableStrings.RegisterMethod_placeholder.Value" Value="حدد طريقة التسجيل" />
+			<Item Name="LocalizableStrings.SalesTab_caption.Value" Value="الفرص" />
+			<Item Name="LocalizableStrings.ServiceTab_caption.Value" Value="خدمة" />
+			<Item Name="LocalizableStrings.SubmittedFormExpansionPanel_title.Value" Value="النماذج المقدمة" />
+			<Item Name="LocalizableStrings.SubmittedFormExportDataButton_caption.Value" Value="تصدير إلى إكسل" />
+			<Item Name="LocalizableStrings.SubmittedFormRefreshButton_caption.Value" Value="تحديث" />
+		</Items>
+	</Group>
+</Resources>
